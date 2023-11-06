@@ -1,0 +1,68 @@
+.container{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-top: 10%;
+  }
+  .card{
+      height: 400px;
+      width: 400px;
+      background-color: rgb(192, 192, 192);
+      border-radius: 3%;
+      justify-content: center;
+      margin-left: 30%;
+  }
+  
+  .caixa{
+      align-items: center;
+      padding: 9%;
+      padding-top: 5%;
+      align-content: center;
+      align-self: center;
+      justify-content: center;
+  }
+  .titulo{
+      font-family:Arial;
+      font-size: 1.5rem;
+      font-weight: lighter;
+      color: black;
+      border: 2px solid black;
+      text-align:justify;
+      height: 60px;
+      margin-top: 10%;
+  
+  }
+  .botao{
+      font-family:Arial;
+      font-size: 1.5rem;
+      font-weight: lighter;
+      color: white;
+      background-color: green;
+      border: solid green 1px;
+      border-radius: 5%;
+      text-align: center;
+      height: 60px;
+      width: 98%;
+      margin-top: 10%;
+      margin-left: 2%;
+      align-self:center;
+      cursor: pointer;
+  }
+  .cadastrar{
+      font-family:Arial;
+      font-size: 1.1rem;
+      font-weight: lighter;
+      background-color: rgb(192, 192, 192);
+      border: solid rgb(192, 192, 192) 1px;
+      text-align: center;
+      align-self: center;
+      margin-top: 6%;
+      margin-left: 36%;
+      cursor: pointer;
+  }
+  h1{
+      font-family:Arial;
+      font-size: 4rem;
+      text-align: center;
+      font-weight: lighter;
+  }

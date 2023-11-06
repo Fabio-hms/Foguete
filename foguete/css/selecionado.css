@@ -1,0 +1,111 @@
+h1{
+    font-family: Arial;
+    text-align: center;
+}
+
+.container{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+.line{
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 10%;
+}
+
+.card{
+    border: 1px solid black;
+    height: 450px;
+    width: 350px;
+    margin: 10%;
+    border-radius: 10px;
+}
+.imagem{
+    width: 100%;
+    max-width: 350px;
+    height: 50%;
+    background-color: black;
+    border-radius: 10px 10px 0px 0px;
+}
+
+p{
+    font-family:Arial;
+    font-size: 1.1rem;
+    font-weight: lighter;
+    margin-left: 1%;
+}
+.botao{
+    font-family:Arial;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    color: white;
+    background-color: green;
+    border: solid green 1px;
+    border-radius: 5%;
+    text-align: center;
+    height: 60px;
+    width: 95%;
+    margin-left: 2%;
+    align-self:center;
+    cursor: pointer;
+}
+.caixa{
+    align-items: center;
+    padding: 11%;
+    padding-top: 20%;
+    align-content: center;
+    align-self: center;
+    justify-content: center;
+}
+.titulo{
+    font-family:Arial;
+    font-size: 1rem;
+    font-weight: lighter;
+    color: black;
+    border: 2px solid black;
+    text-align:justify;
+    height: 60px;
+    width: 95%;
+    margin-left: 2%;
+    align-self:center;
+    margin-top: 10%;
+
+}
+.confirma{
+      font-family:Arial;
+      font-size: 1.5rem;
+      font-weight: lighter;
+      color: white;
+      background-color: green;
+      border: solid green 1px;
+      border-radius: 5%;
+      text-align: center;
+      height: 60px;
+      width: 98%;
+      margin-top: 10%;
+      margin-left: 2%;
+      align-self:center;
+      cursor: pointer;
+}
+.cadastrar{
+      font-family:Arial;
+      font-size: 1.1rem;
+      font-weight: lighter;
+      background-color: rgb(192, 192, 192);
+      border: solid rgb(192, 192, 192) 1px;
+      text-align: center;
+      align-self: center;
+      margin-top: 6%;
+      margin-left: 36%;
+      cursor: pointer;
+}
+.lucro{
+    background-color: rgb(192, 192, 192);
+    height: 450px;
+    width: 350px;
+    margin: 10%;
+    border-radius: 10px;
+    margin-left: 70%;
+}
